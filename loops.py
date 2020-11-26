@@ -1,9 +1,9 @@
-# var = 100
-# if ( var == 100 ) :
-#     print ("Value of expression is 100")
-#     print ("Good bye!")
-# else:
-#     print("bye")
+var = 100
+if ( var == 100 ) :
+    print ("Value of expression is 100")
+    print ("Good bye!")
+else:
+    print("bye")
 # a = 33
 # b = 33
 # c=34
